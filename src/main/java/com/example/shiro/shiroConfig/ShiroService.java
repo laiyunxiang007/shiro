@@ -1,4 +1,4 @@
-package com.example.shiro;
+package com.example.shiro.shiroConfig;
 
 import com.example.shiro.mapper.PermissionMapper;
 import com.example.shiro.model.Permission;
@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
-
+//重新加载权限
 @Service
 public class ShiroService {
     @Autowired

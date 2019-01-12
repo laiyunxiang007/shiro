@@ -1,4 +1,4 @@
-package com.example.shiro;
+package com.example.shiro.Util;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;

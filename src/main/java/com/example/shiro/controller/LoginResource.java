@@ -1,5 +1,6 @@
-package com.example.shiro;
+package com.example.shiro.controller;
 
+import com.example.shiro.shiroConfig.ShiroService;
 import org.apache.shiro.SecurityUtils;
 
 import org.apache.shiro.authc.UsernamePasswordToken;

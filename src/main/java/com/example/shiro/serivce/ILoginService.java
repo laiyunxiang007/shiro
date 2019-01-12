@@ -1,4 +1,4 @@
-package com.example.shiro;
+package com.example.shiro.serivce;
 
 import com.example.shiro.mapper.UserMapper;
 import com.example.shiro.model.User;

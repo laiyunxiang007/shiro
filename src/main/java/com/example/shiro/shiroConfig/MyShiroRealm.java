@@ -1,5 +1,6 @@
-package com.example.shiro;
+package com.example.shiro.shiroConfig;
 
+import com.example.shiro.serivce.ILoginService;
 import com.example.shiro.model.Permission;
 import com.example.shiro.model.Role;
 import com.example.shiro.model.User;
